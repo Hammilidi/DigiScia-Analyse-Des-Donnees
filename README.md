@@ -29,7 +29,7 @@ Decouvrir les etapes de l'analyse des donnees :
 - Interpretation des resultats
 
 ### 3. Projets concrets
-- Projet 1: Analyse des ventes de jeux videos (Le Notebook Video Games Analysis)
+- Projet 1: Analyse des ventes de jeux videos (Le Notebook Video Games Sales Analysis)
 - Projet2 : 
 
 
