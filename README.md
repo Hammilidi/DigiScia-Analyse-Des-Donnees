@@ -30,6 +30,7 @@ Decouvrir les etapes de l'analyse des donnees :
 
 ### 3. Projets concrets
 - Projet 1: Analyse des ventes de jeux videos (Le Notebook Video Games Sales Analysis)
-- Projet2 : 
+- Projet 2 : Analyse des donnees des Jeux Olympiques de Paris 2024
+- Projet 3 : 
 
 
