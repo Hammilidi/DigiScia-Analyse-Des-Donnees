@@ -34,3 +34,6 @@ Decouvrir les etapes de l'analyse des donnees :
 - Projet 3 : 
 
 
+NB: changez le chemin d'acces lorsque vous importez les donnees dans votre notebook ou simplement, creer un sous-dossier /data qui contiendra tous vos fichiers de donnees.
+
+
