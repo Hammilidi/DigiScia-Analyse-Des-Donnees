@@ -35,7 +35,7 @@ Dans cette partie, vous découvrirez les étapes clés de l'analyse des données
 Mettez en application les concepts appris à travers des projets concrets :
 
 - Projet 1 : Analyse des ventes de jeux vidéo (Notebook : *Video Games Sales Analysis*)
-- Projet 2 : Analyse des données des Jeux Olympiques de Paris 2024 : (Notebook : *JO Paris*
+- Projet 2 : Analyse des données des Jeux Olympiques de Paris 2024 : (Notebook : *JO Paris*)
 - Projet 3 : Analyse des offres de stage (Notebook : *Jobs Analysis*)
 
 ### Remarque :
