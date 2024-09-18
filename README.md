@@ -1,13 +1,15 @@
 # DigiScia - Analyse des Données
-Ce programme propose une approche pour vous initier à l'analyse des données avec Python. Il aborde les concepts essentiels de l'analyse des données avec Python en trois étapes. Il est conçu pour être accessible à tous les niveaux.
 
-### 1. Initiation à la programmation informatique avec *Python*
-Dans cette première partie, vous serez équipé de tout ce qu'il faut pour programmer en Python et maîtriser les concepts clés de la programmation informatique (Notebook : Rappel Python) :
+Ce programme offre une approche structurée pour vous initier à l'analyse de données avec Python. Il aborde les concepts fondamentaux en trois étapes, adaptées à tous les niveaux.
+
+### 1. Initiation à la programmation avec *Python*
+Dans cette première partie, vous serez équipé(e) des bases nécessaires pour programmer en Python et maîtriser les concepts essentiels de la programmation informatique. (Notebooks : *Rappel Python* et *Exercices Python*)
+
 - Variables et types de variables
-- Casting
+- Conversion de types (casting)
 - Opérateurs mathématiques et logiques
 - Structures conditionnelles
-- Les boucles
+- Boucles
 - Interaction utilisateur
 - Listes & manipulations
 - Dictionnaires & manipulations
@@ -17,20 +19,26 @@ Dans cette première partie, vous serez équipé de tout ce qu'il faut pour prog
 - Fonctions
 - Modules
 
-Des exercices appliquant tous les concepts abordés (Notebook : Exercices Python).
+Des exercices pratiques illustrant tous les concepts abordés sont également fournis.
 
 ### 2. Analyse des données avec *Pandas*, *Matplotlib* et *Seaborn*
-Découverte des étapes de l'analyse des données : 
-- Méthodologies d'analyse des données
+Dans cette partie, vous découvrirez les étapes clés de l'analyse des données :
+
+- Méthodologies d'analyse de données
 - Introduction aux statistiques
-- EDA (Exploratory Data Analysis)
+- Analyse exploratoire des données (Exploratory Data Analysis - EDA)
 - Nettoyage des données (Data Cleansing)
 - Analyse & visualisation des données
 - Interprétation des résultats
 
-### 3. Projets concrets
-- Projet 1 : Analyse des ventes de jeux vidéo (Notebook : Video Games Sales Analysis)
-- Projet 2 : Analyse des données des Jeux Olympiques de Paris 2024
-- Projet 3 : Analyse des offres de stage
+### 3. Projets pratiques
+Mettez en application les concepts appris à travers des projets concrets :
 
-NB : Modifiez le chemin d'accès lorsque vous importez les données dans votre notebook ou, simplement, créez un sous-dossier `/data` qui contiendra tous vos fichiers de données.
+- Projet 1 : Analyse des ventes de jeux vidéo (Notebook : *Video Games Sales Analysis*)
+- Projet 2 : Analyse des données des Jeux Olympiques de Paris 2024 : (Notebook : *JO Paris*
+- Projet 3 : Analyse des offres de stage (Notebook : *Jobs Analysis*)
+
+### Remarque :
+Pensez à modifier le chemin d’accès lorsque vous importez les données dans vos notebooks ou créez un sous-dossier `/data` pour y stocker tous vos fichiers de données.
+
+
