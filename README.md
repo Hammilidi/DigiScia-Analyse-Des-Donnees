@@ -1,39 +1,36 @@
-# DigiScia-Analyse-Des-Donnees
-Ce programme propose une approche pour vous initier a l'analyse des donnees avec python. Il aborde les concepts essentiels pour l'analyse des données avec python en trois etapes. Il se veut universel pour tous les niveaux.
+# DigiScia - Analyse des Données
+Ce programme propose une approche pour vous initier à l'analyse des données avec Python. Il aborde les concepts essentiels de l'analyse des données avec Python en trois étapes. Il est conçu pour être accessible à tous les niveaux.
 
-### 1. Intitiation a la programmation informatique avec *python*
-Dans cette premiere partie, vous serez outillee de tout ce qu'il faut pour programmer en python et maitriser les concepts clefs de la programmation informatique (Le Notebook Rappel Python)
-- Variables et Types de variables
+### 1. Initiation à la programmation informatique avec *Python*
+Dans cette première partie, vous serez équipé de tout ce qu'il faut pour programmer en Python et maîtriser les concepts clés de la programmation informatique (Notebook : Rappel Python) :
+- Variables et types de variables
 - Casting
-- Operateurs mathematiques et de logique
+- Opérateurs mathématiques et logiques
 - Structures conditionnelles
 - Les boucles
 - Interaction utilisateur
-- Listes & Manipulations
+- Listes & manipulations
 - Dictionnaires & manipulations
-- Tuples & Manipulations
-- Sets & Manipulations
-- Manipulation des chaines de caracteres
+- Tuples & manipulations
+- Sets & manipulations
+- Manipulation des chaînes de caractères
 - Fonctions
 - Modules
 
-Des exercices qui appliquent tous les concepts abordees (Le Notebook Exercices Notebook)
+Des exercices appliquant tous les concepts abordés (Notebook : Exercices Python).
 
-### 2. Analyse des donnees avec *Pandas*, *Matplotlib* et *Searborn*
-Decouvrir les etapes de l'analyse des donnees : 
-- Methodologies d'analyses des donnees
+### 2. Analyse des données avec *Pandas*, *Matplotlib* et *Seaborn*
+Découverte des étapes de l'analyse des données : 
+- Méthodologies d'analyse des données
 - Introduction aux statistiques
 - EDA (Exploratory Data Analysis)
-- Nettoyage des donnes ou Data Cleansing
-- Analyses & Data Visualization
-- Interpretation des resultats
+- Nettoyage des données (Data Cleansing)
+- Analyse & visualisation des données
+- Interprétation des résultats
 
 ### 3. Projets concrets
-- Projet 1: Analyse des ventes de jeux videos (Le Notebook Video Games Sales Analysis)
-- Projet 2 : Analyse des donnees des Jeux Olympiques de Paris 2024
+- Projet 1 : Analyse des ventes de jeux vidéo (Notebook : Video Games Sales Analysis)
+- Projet 2 : Analyse des données des Jeux Olympiques de Paris 2024
 - Projet 3 : Analyse des offres de stage
 
-
-NB: changez le chemin d'acces lorsque vous importez les donnees dans votre notebook ou simplement, creer un sous-dossier /data qui contiendra tous vos fichiers de donnees.
-
-
+NB : Modifiez le chemin d'accès lorsque vous importez les données dans votre notebook ou, simplement, créez un sous-dossier `/data` qui contiendra tous vos fichiers de données.
